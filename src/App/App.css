@@ -1,0 +1,6 @@
+.App {
+  display: flexbox;
+  flex-direction: column;
+  margin: 10px 50px;
+  text-align: center;
+}
